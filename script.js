@@ -17,7 +17,7 @@ function Spocitej() {
                     cenaZaKvalitu += (cenaMnozstviTyp * 0.3);
                 break;
                 case "premium":
-                    cenaZaKvalitu += (cenaMnozstviTyp * 0.3);
+                    cenaZaKvalitu += (cenaMnozstviTyp * 0.5);
                 break;
                 case "chudi":
                     cenaZaKvalitu += (cenaMnozstviTyp * -0.15);
